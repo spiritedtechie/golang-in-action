@@ -6,7 +6,10 @@ This is a project to create a really simple REST service using Golang.
 Technologies
 ------------
 
-Golang with Gorillax Mux router.
+Golang, Golang libraries (net/http, encoding/json) and Gorilla Mux package for routing.
+
+http://www.gorillatoolkit.org/pkg/mux
+https://github.com/gorilla/mux
 
 Setup
 -----
